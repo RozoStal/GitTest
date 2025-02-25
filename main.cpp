@@ -1,8 +1,8 @@
 #include<iostream>
 
-int func1()
+int func2()
 {
-	return 1;
+	return 2;
 }
 
 int main()
